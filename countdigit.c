@@ -2,7 +2,8 @@
 
 int main()
 {
-    int n= 23456;
+ int n= 23456;
+
     int count =0;
 
     while(n>0){
