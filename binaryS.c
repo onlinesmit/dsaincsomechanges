@@ -1,5 +1,5 @@
 #include<stdio.h>
-#define MAX 20
+#define MAX 50
  
 int binarySearch(int ar[],int n,int key){
 	int start = 0,end = n-1,mid;
@@ -38,3 +38,5 @@ int main(){
 	}
 	
 }
+
+//

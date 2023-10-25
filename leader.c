@@ -1,5 +1,5 @@
 #include<stdio.h>
-#define MAX 100
+#define MAX 50
 
 int main(){
     int arr[MAX], i, j, temp, n;
